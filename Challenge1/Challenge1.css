@@ -1,0 +1,19 @@
+.bg
+{
+    background-color: gray;
+
+}
+.rect
+{
+    height: 90px;
+    width: 50px;
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+    border-color: white;
+    color: greenyellow;
+    
+
+    
+
+}
